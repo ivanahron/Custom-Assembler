@@ -1,0 +1,12 @@
+0-49 : Temporary
+50-51: RNG Seed
+52-53: Food Position
+54: Eat Condition
+90-91 : Body Size
+97-99 : Next position of head
+100-154 : Snake Body Segments (including head)
+160-162 : Duplicate Position of Head
+163-164 : Next Head Position in 100-154
+192-241 : LED Matrix Output
+250 : Last Direction Moved
+254-255 : Global Seed
