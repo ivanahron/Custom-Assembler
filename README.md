@@ -6,7 +6,7 @@
 - Alcancia, Dean Robin A. 
 - Dianito, Levie M. 
 - Dollison, Hedelito III M. 
-- Junio, Ivan L.
+- Junio, Ivan Ahron L.
 
 ## Contributions
 All team members participated equally in both Part A and Part B of the project.
